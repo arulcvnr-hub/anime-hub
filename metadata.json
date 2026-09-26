@@ -1,0 +1,6 @@
+{
+  "name": "AnimeHub Offline Vault",
+  "description": "Offline-first Neo-Tokyo cyberpunk anime streaming vault with local SQLite database, HTTP 206 range streaming, WebVTT subtitles, and Flask backend architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
